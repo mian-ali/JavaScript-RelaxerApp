@@ -8,3 +8,8 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - Create and animate pointer (Small circle)
 - Create grow and shrink animations
 - Add JavaScript to create the breath animation effect
+
+
+## Broswer URL
+
+(https://mian-ali.github.io/JavaScript-RelaxerApp/)
