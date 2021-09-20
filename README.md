@@ -10,6 +10,10 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 - Add JavaScript to create the breath animation effect
 
 
+## Project Over View
+
+[Click `Demo Button ` and View Project](https://mian-ali.github.io/JavaScript-RelaxerApp/)
+
 ## Broswer URL
 
 (https://mian-ali.github.io/JavaScript-RelaxerApp/)
