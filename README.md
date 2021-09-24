@@ -12,7 +12,7 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 
 ## Project Over View
 
-[Click `Demo Button ` and View Project](https://mian-ali.github.io/JavaScript-RelaxerApp/)
+[Click `Demo Button` and View Project](https://mian-ali.github.io/JavaScript-RelaxerApp/)
 
 ## Broswer URL
 
